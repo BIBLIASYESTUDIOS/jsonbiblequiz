@@ -1,0 +1,13 @@
+[
+    {
+        "question": "Who was the first man created?",
+        "answers": ["Adam", "Eve", "Noah", "Moses"],
+        "correctAnswer": "Adam"
+    },
+    {
+        "question": "How many books are in the New Testament?",
+        "answers": ["27", "39", "66", "12"],
+        "correctAnswer": "27"
+    }
+    // Agrega más preguntas aquí
+]
